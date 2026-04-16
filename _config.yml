@@ -26,7 +26,8 @@ author:
   avatar           : "Harry-Lanaras.jpg"
   name             : "Χάρης Λαναράς"
   pronouns         : # example: "she/her"  
-  bio              : "Μηχανικός Μηχανικής Μάθησης με εμπειρία 7 χρόνων στη βιομηχανία στον τομέα της έρευνας και εκταταμένη ακαδημαϊκή/διδακτική διαδρομή."
+  # bio              : "Μηχανικός Μηχανικής Μάθησης με εμπειρία 7+ χρόνων στη βιομηχανία στον τομέα της έρευνας και εκταταμένη ακαδημαϊκή/διδακτική διαδρομή."
+  bio              : "Διδάκτωρ ETH Zürich, Διπλ. ΑΤΜ ΑΠΘ, Διευθυντής Μηχανικής Μάθησης στην Autodesk"
   location         : "London, UK"
   employer         : "ML at Autodesk"
   uri              : # URL
@@ -43,7 +44,7 @@ author:
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : https://www.scopus.com/authid/detail.uri?authorId=56568192000
   zotero           : # URL
 
 
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "harry-lanaras-024264147/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
